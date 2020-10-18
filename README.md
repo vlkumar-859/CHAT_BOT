@@ -4,10 +4,8 @@
   ![jarvis](https://github.com/PadmaJyothi-U/ML2021/blob/files/jarvis.png)
   
 ## Team Members
-1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
-
-2.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
-
+1.V.Lohit Kumar, lohitkumar859@gmail.com
+2.U.Padma Jyothi, padmajyothi@vishnu.edu.in
 
 ## Design model 
 ![Jarvis Design](https://github.com/PadmaJyothi-U/ML2021/blob/files/Jarvis%20Design.png)
