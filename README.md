@@ -41,7 +41,7 @@
     - 32 GB
     - 64 GB
     - 128 GB
-  + Enter Display size of mobile
+  + Display size of mobile
     - 6.0 Inch
     - 6.2 Inch
     - 6.3 Inch
@@ -53,9 +53,9 @@
     - FHD
     - FHD+
   + Battery life
-    - 4000 Mah
-    - 5000 Mah
-    - 6000 Mah
+    - 4000 mah
+    - 5000 mah
+    - 6000 mah
 * Based on all the features which are provided by a specific user, jarvis will return the mobile details that matches all the features which are provided.
 * If the user is not satisified with the mobile, then he/she can go to next chance. 
 * Simple Bot for helping a user for choosing a mobile. Thank you.
