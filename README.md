@@ -8,7 +8,7 @@
 
 2.U.Padma Jyothi, padmajyothi@vishnu.edu.in
 
-3.N.naga Krishna, nagakrishna.n@vishnu.edu.in
+3.N.Naga Krishna, nagakrishna.n@vishnu.edu.in
 
 ## Design model 
 ![Jarvis Design](https://github.com/PadmaJyothi-U/ML2021/blob/files/Jarvis%20Design.png)
