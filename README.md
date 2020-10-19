@@ -13,7 +13,9 @@
 ## Design model 
 ![Jarvis Design](https://github.com/PadmaJyothi-U/ML2021/blob/files/Jarvis%20Design.png)
 
-
+## Youtube link for my bot
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://www.youtube.com/watch?v=uQLwMbKEmrs)
+ 
 ## Description
 * Name of the bot - *Jarvis*
 * Bot will send a welcome message to the user or a customer by asking the name.
@@ -71,6 +73,4 @@
   + Redmi mobiles (https://www.mi.com/global/)
   + iphone mobiles (https://www.apple.com/in/iphone/)
   + Vivo mobiles (https://www.vivo.com/in/products)
-  Jyothi Mam-2, [19.10.20 16:29]
-## Youtube link for my bot
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://www.youtube.com/watch?v=uQLwMbKEmrs)
+  
