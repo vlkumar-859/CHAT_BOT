@@ -59,3 +59,13 @@
 * Based on all the features which are provided by a specific user, jarvis will return the mobile details that matches all the features which are provided.
 * If the user is not satisified with the mobile, then he/she can go to next chance. 
 * Simple Bot for helping a user for choosing a mobile. Thank you.
+## References
+* Dictionaries (https://www.w3schools.com/python/gloss_python_loop_dictionary_items.asp)
+* Embedding youtube video in github (https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
+* Markdown cheat sheet (https://www.markdownguide.org/cheat-sheet/)
+* Data about different mobiles data
+  + Samsung mobiles (https://www.samsung.com/in/smartphones/)
+  + Realme mobiles (https://www.realme.com/in/)
+  + Redmi mobiles (https://www.mi.com/global/)
+  + iphone mobiles (https://www.apple.com/in/iphone/)
+  + Vivo mobiles (https://www.vivo.com/in/products)
